@@ -1,10 +1,10 @@
 {
-  "name": "xb-node-server",
+  "name": "node-static-server",
   "version": "0.1.0",
-  "description": "node server for xb website",
+  "description": "node server for static website",
   "scripts": {},
   "bin": {
-    "xbserver": "./bin/server.js"
+    "nsserver": "./bin/server.js"
   },
   "dependencies": {
     "chalk": "2.4.1",
@@ -29,11 +29,9 @@
     "prettier-eslint": "8.8.2"
   },
   "keywords": [
-    "xb",
     "node",
     "server",
     "ssi"
   ],
-  "author": "xuebangsoft",
-  "private": true
+  "author": "zxy"
 }
