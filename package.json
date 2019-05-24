@@ -20,7 +20,7 @@
     "koa-router": "7.4.0",
     "koa-send": "5.0.0",
     "nodemon": "1.13.3",
-    "util.promisify": "^1.0.0"
+    "util.promisify": "1.0.0"
   },
   "devDependencies": {
     "cross-env": "5.1.4",
