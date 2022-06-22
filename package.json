@@ -10,7 +10,7 @@
     "chalk": "2.4.1",
     "chokidar": "2.0.4",
     "cross-spawn": "6.0.5",
-    "got": "9.6.0",
+    "got": "11.8.5",
     "koa": "2.5.2",
     "koa-bodyparser": "4.2.1",
     "koa-convert": "1.2.0",
